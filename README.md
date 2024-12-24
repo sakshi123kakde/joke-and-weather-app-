@@ -28,7 +28,7 @@ Official Joke API
 🚀 How to Run the Project
 Clone the repository:
 
-1.git clone https://github.com/sakshi123kakde/joke-and-weather-app/
+1.git clone https://github.com/sakshi123kakde/joke-and-weather-app-/
                   cd joke-and-weather-app
 2.Install dependencies: npm install
 3.Start the development server: npm run dev
