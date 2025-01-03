@@ -14,12 +14,7 @@ const InfoBox = ({data}) => {
         alignItems:"center"}}>
     
      <Card sx={{ maxWidth: 345 }}>
-      <CardMedia
-        component="img"
-        alt="green iguana"
-        height="140"
-        image="https://mui.com/static/images/cards/contemplative-reptile.jpg"
-      />
+     
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
         {data.city_name}
